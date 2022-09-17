@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # my custom .gitignore
-*.ipython
+*.ipynb
 
